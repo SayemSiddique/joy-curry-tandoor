@@ -191,6 +191,3 @@ Fix: Be specific. "feat: add Chicken Tikka Masala to menu-data.js" tells future-
 Fix: Inside the project folder, `cd frontend/js` is cleaner than `cd ~/dev/joy-curry-tandoor/frontend/js`. Save the full path for jumping from outside the project.
 
 ---
-
-*Save this file to: `/docs/cheatsheets/00-git-terminal-basics.md` in your repo*
-*Then commit: `git add docs/ && git commit -m "docs: add Phase 0 cheat sheet (M0.2)"`*
