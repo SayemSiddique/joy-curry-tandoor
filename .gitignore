@@ -1,0 +1,20 @@
+# Dependencies — recreatable, never commit
+node_modules/
+
+# Secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# Mac system files — useless to everyone else
+.DS_Store
+.DS_Store?
+._*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build output (Phase 6)
+/dist
+/build
